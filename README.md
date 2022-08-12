@@ -7,6 +7,7 @@ welcome to my repo, while those are not fully sorted or searched for scams, some
 
 # Requirements
 If you  dont already have it  register for a Binance Account [Binance Account Registration](https://www.binance.com/en/activity/referral/offers/claim?ref=CPA_00KPBOFG6I)
+
 Get a Telegram Account [Telegram](https://www.telegram.org)
 
 # Telegram Channels
