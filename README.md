@@ -11,7 +11,7 @@ If you  dont already have it  register for a Binance Account [Binance Account Re
 Get a Telegram Account [Telegram](https://www.telegram.org)
 
 # Telegram Channels
-##Free Boxes
+## Free Boxes
 https://t.me/s/cryptobox2022
 
 https://t.me/s/BinanceCodex
@@ -60,6 +60,6 @@ https://t.me/s/binance_cn
 
 https://t.me/s/RoyalQBTCFDLRS4
 
-##Bots
+## Bots
 https://t.me/airdropdgb_v3bot?start=1302906547
 
