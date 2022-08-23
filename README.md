@@ -46,8 +46,6 @@ https://t.me/xworldgames
 
 https://t.me/mobox_io
 
-https://t.me/s/binance_announcements
-
 https://t.me/s/BinanceCodex
 
 https://t.me/s/cryptoboxofficial
@@ -59,6 +57,8 @@ https://t.me/ezcryptobox
 https://t.me/s/binance_cn
 
 https://t.me/s/RoyalQBTCFDLRS4
+
+
 
 ## Bots
 https://t.me/airdropdgb_v3bot?start=1302906547
