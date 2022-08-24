@@ -48,16 +48,20 @@ https://t.me/mobox_io
 
 https://t.me/s/BinanceCodex
 
+### Crypto Box Official
 https://t.me/s/cryptoboxofficial
 
-https://t.me/s/shrimp_notice
-
+### Ez Crypto Box
 https://t.me/ezcryptobox
 
-https://t.me/s/binance_cn
-
+### Royal Crypto Box
 https://t.me/s/RoyalQBTCFDLRS4
 
+### Crypto up
+https://t.me/+ihV1T5DSQhBiYWZi
+
+### Box Crypto
+https://t.me/box_crypto
 
 
 ## Bots
